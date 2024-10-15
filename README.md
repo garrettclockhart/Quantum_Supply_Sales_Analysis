@@ -9,7 +9,7 @@ Sales analysis of an e-commerce company
 # High Level Summary
 Body Text 
 
-# Deep Dive In-Sights
+# Deep Dive Insights
 Body Text
 
 # Sales Trends
