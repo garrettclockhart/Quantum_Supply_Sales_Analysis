@@ -3,7 +3,7 @@ Sales analysis of an e-commerce company
 
 # Overview 
 ERD(From about our Data Tab)
-![image](https://github.com/user-attachments/assets/5f9ee2a7-9383-4618-80ba-45ff34bc1bb1)
+<img src="![image](https://github.com/user-attachments/assets/5f9ee2a7-9383-4618-80ba-45ff34bc1bb1)" alt="Alt text" width="400"/>
 
 
 # High Level Summary
