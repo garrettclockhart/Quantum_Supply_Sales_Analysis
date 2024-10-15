@@ -10,4 +10,4 @@ ERD(From about our Data Tab)
 # Sales Trends
 # Product Trends
 # Loyalty Program
-# #Refund Rates
+# Refund Rates
