@@ -10,10 +10,23 @@ Quantum Supply is an innovative e-commerce platform specializing in high-quality
 
 
 # High Level Summary
-	•	Overall Trends: From 2019-2022, the company generated $28M from 108k total orders, with December as the best-performing month and February and October consistently the worst. Sales and order count growth aligned, with the highest increase in March 2020 and the steepest decline in October 2022.
-	•	Best-Selling Product/Region: North America, particularly the U.S., accounted for over 50% of revenue, with $14M in sales from 50k orders. The 27-inch 4K Gaming Monitor, Apple Airpods, and Macbook Air together contributed 85% of total sales, with $22M combined.
-	•	Loyalty Program: By 2022, loyalty and non-loyalty members reached spending equilibrium, with non-loyalty members’ spending declining. Loyalty members showed consistent growth in average order value (AOV), surpassing non-loyalty members by 2021.
-	•	Refund Rates: The overall refund rate was 5.91%, with the Macbook Air Laptop having the highest rate at 11.43%, followed by the Apple iPhone at 7.64%, and the Apple Airpods Headphones at 5.45%.
+# Sales Performance Summary
+
+## Overall Trends
+- From 2019-2022, the company generated **$28M** from **108k total orders**, with **December** being the best-performing month and **February** and **October** consistently the worst.
+- Sales and order count growth were aligned, with the highest increase in **March 2020** and the steepest decline in **October 2022**.
+
+## Best-Selling Product/Region
+- **North America**, particularly the U.S., accounted for over **50% of revenue**, with **$14M in sales** from **50k orders**.
+- The **27-inch 4K Gaming Monitor**, **Apple AirPods**, and **MacBook Air** contributed **85%** of total sales, amounting to **$22M** combined.
+
+## Loyalty Program
+- By 2022, spending by loyalty and non-loyalty members reached equilibrium, but **non-loyalty members’ spending declined**.
+- **Loyalty members** showed consistent growth in **Average Order Value (AOV)**, surpassing non-loyalty members by 2021.
+
+## Refund Rates
+- The overall **refund rate** was **5.91%**.
+- The **MacBook Air** had the highest refund rate at **11.43%**, followed by the **Apple iPhone** at **7.64%**, and the **Apple AirPods** at **5.45%**.
 
 # Deep Dive Insights
 Body Text
