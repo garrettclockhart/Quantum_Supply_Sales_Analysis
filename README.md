@@ -28,16 +28,17 @@ Quantum Supply is an innovative e-commerce platform specializing in high-quality
 - The **MacBook Air** had the highest refund rate at **11.43%**, followed by the **Apple iPhone** at **7.64%**, and the **Apple AirPods** at **5.45%**.
 
 # Deep Dive Insights
+
+## Sales Trends
+When looking in aggregate by month from 2019-2022, we saw that our highest sales occured in January, September, and December at a peak of $1.2M and the lowest sales occuring in February and October at a low of $178k. This is highlighted in Sales Growth percentage caluclated Month over Month. 
+
+A majority of sales are coming from NA 
+
+## Product Trends
 Body Text
 
-# Sales Trends
+## Loyalty Program
 Body Text
 
-# Product Trends
-Body Text
-
-# Loyalty Program
-Body Text
-
-# Refund Rates
+## Refund Rates
 Body Text
