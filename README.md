@@ -42,3 +42,5 @@ The loyalty program launched in 2019 and initally took
 
 ## Refund Rates
 Body Text
+
+## Recommendations
