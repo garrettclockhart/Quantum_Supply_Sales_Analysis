@@ -32,13 +32,13 @@ Quantum Supply is an innovative e-commerce platform specializing in high-quality
 ## Sales Trends
 When looking in aggregate by month from 2019-2022, we saw that our highest sales occured in January, September, and December at a peak of $1.2M and the lowest sales occuring in February and October at a low of $178k. This is highlighted in Sales Growth percentage caluclated Month over Month. 
 
-A majority of sales are coming from NA 
+A majority of sales are coming from North America accounting for $14M in sales, with Europe, Middle East, and Africa accounting for $8M, combined show for over 80% of the total sales. 
 
 ## Product Trends
-Body Text
+When looking into our product sales, our best performing products
 
 ## Loyalty Program
-Body Text
+The loyalty program launched in 2019 and initally took 
 
 ## Refund Rates
 Body Text
