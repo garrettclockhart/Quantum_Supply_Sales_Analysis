@@ -24,8 +24,8 @@ The full ERD of the sales dataset can be found [here.](https://github.com/user-a
 - **Loyalty members** showed consistent growth in **Average Order Value (AOV)**, surpassing non-loyalty members by 2021.
 
 ### Refund Rates
-- The overall **refund rate** was **5.91%**.
-- The **MacBook Air** had the highest refund rate at **11.43%**, followed by the **Apple iPhone** at **7.64%**, and the **Apple AirPods** at **5.45%**.
+- The overall **refund rate** was **6%**.
+- The **MacBook Air** had the highest refund rate at **11%**, followed by the **Apple iPhone** at **8%**, and the **Apple AirPods** at **5%**.
 
 # Deep Dive Insights
 
@@ -42,10 +42,12 @@ By brand Apple is responsible for more than half of all sales, with Airpods gene
 ## Loyalty Program
 The loyalty program launched in 2019 with a slow rate of adoption where Non-Loyalty members outspent Loyalty Members during the first two years of the program. However in 2021, Loyalty Members began to outspend Non-Loyalty Members by over $500,000 as well as reaching a steady AOV of $245 versus $214 for Non-Loyalty Members.
 
-The program initially had a low adoption with only 11% of all orders being placed by Loyalty Members, by 2021 onwards over 50% of all orders have been placed by Loyalty Members.
+At first, only 11% of all orders were made by Loyalty Members, but by 2021, over half of all orders were placed by members of the loyalty program.
 
 ## Refund Rates
-Body Text
+The overall refund rate is 5.91% which is much lower than the industry average of 17% for ecommerce brands according to [Shopify Return Data.](https://www.shopify.com/enterprise/blog/ecommerce-returns "Shopify Return Data")
+
+When looking further into Apple product returns, the Macbook Air had the highest return rate of 11% more than double the return rate of the Airpods at just 5%. 
 
 ## Recommendations
 ######  test
