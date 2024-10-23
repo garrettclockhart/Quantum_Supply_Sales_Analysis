@@ -45,9 +45,10 @@ The loyalty program launched in 2019 with a slow rate of adoption where Non-Loya
 At first, only 11% of all orders were made by Loyalty Members, but by 2021, over half of all orders were placed by members of the loyalty program.
 
 ## Refund Rates
-The overall refund rate is 5.91% which is much lower than the industry average of 17% for ecommerce brands according to [Shopify Return Data.](https://www.shopify.com/enterprise/blog/ecommerce-returns "Shopify Return Data")
+The overall refund rate is 5.91% which is much lower than the industry average of 17% for ecommerce brands according to [Shopify Ecommerce Returns Data.](https://www.shopify.com/enterprise/blog/ecommerce-returns "Shopify Return Data")
 
-When looking further into Apple product returns, the Macbook Air had the highest return rate of 11% more than double the return rate of the Airpods at just 5%. 
+When looking further into Apple product returns, the Macbook Air had the highest return rate of 11% more than double the return rate of the Airpods at just 5%.
 
 ## Recommendations
-######  test
+Look further into what is causing the Macbooks to be returned twice as often as Airpods. 
+
