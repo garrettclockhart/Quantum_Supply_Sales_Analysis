@@ -4,7 +4,7 @@ Sales analysis of an e-commerce company
 
 # Overview
 ## About Quantum Supply
-Quantum Supply is an innovative e-commerce platform specializing in high-quality tech products and gadgets. Since launching in 2018, Quantum Supply has become a go-to destination for tech enthusiasts, offering a curated selection of premium electronics such as gaming monitors, headphones, and laptops. With a focus on delivering cutting-edge technology at competitive prices, Quantum Supply prides itself on exceptional customer service and fast, reliable shipping across North America and internationally. The platform caters to a wide range of customers, from casual users to tech professionals, consistently offering new product releases and exclusive deals. 
+Quantum Supply is a dynamic e-commerce platform focused on high-quality tech products and gadgets. Since its 2018 launch, it has become a preferred choice for tech enthusiasts, offering a curated range of premium electronics like gaming monitors, headphones, and laptops. Known for providing the latest technology at competitive prices, Quantum Supply is dedicated to outstanding customer service and fast, dependable shipping both across North America and internationally. Serving a diverse customer base, from casual users to tech professionals, the platform continually introduces new products and exclusive deals.
 
 ### Dataset
 The full ERD of the sales dataset can be found [here.](https://github.com/user-attachments/assets/5f9ee2a7-9383-4618-80ba-45ff34bc1bb1)
