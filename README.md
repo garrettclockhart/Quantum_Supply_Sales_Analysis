@@ -1,5 +1,3 @@
-
-
 # Quantum Supply Sales Analysis
 Sales analysis of an e-commerce company
 
@@ -13,14 +11,14 @@ The dataset contains detailed records of sales transactions from 2019 to 2022 in
 
 The full ERD of the sales dataset can be found [here.](https://github.com/user-attachments/assets/5f9ee2a7-9383-4618-80ba-45ff34bc1bb1)
 
-Cleaning of the dataset was required before analysis, you can view a changelog here(link). 
+Cleaning of the dataset was required before analysis, you can view a change log here(link). 
 
 # Sales Performance Summary
 
 ### Overall Trends
 - From 2019-2022, the company generated **$28M** from **108k total orders**, 2019 saw the lowest annual revenue at $3.8M with a peak annual revenue reaching **$10M** in 2020.
 
-- Annual Sales growth was highest between 2019 and 2020 at 163% (YoY) with 2021 to 2022 experiencing a 46% decrease in sales year over year.
+- Annually the largest sales growth occurred between 2019 and 2020 at **163% (YoY)** , while 2021 to 2022 experiencing a **46% decline** in sales year over year.
 
 ### Best-Selling Product/Region
 - **North America**, particularly the U.S., accounted for over **50% of revenue**, with **$14M in sales** from **50k orders**.
@@ -31,7 +29,7 @@ Cleaning of the dataset was required before analysis, you can view a changelog h
 - **Loyalty members** showed consistent growth in **Average Order Value (AOV)**, surpassing non-loyalty members by 2021.
 
 ### Refund Rates
-- The overall **refund rate** was **6%**.
+- The overall **refund rate** across all transactions is **6%**.
 - The **MacBook Air** had the highest refund rate at **11%**, followed by the **Apple iPhone** at **8%**, and the **Apple AirPods** at **5%**.
 
 # Deep Dive Insights
