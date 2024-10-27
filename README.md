@@ -1,24 +1,31 @@
 
+
 # Quantum Supply Sales Analysis
 Sales analysis of an e-commerce company
 
 # Overview
 ## About Quantum Supply
-Quantum Supply is a dynamic e-commerce platform focused on high-quality tech products and gadgets. Since its 2018 launch, it has become a preferred choice for tech enthusiasts, offering a curated range of premium electronics like gaming monitors, headphones, and laptops. Known for providing the latest technology at competitive prices, Quantum Supply is dedicated to outstanding customer service and fast, dependable shipping both across North America and internationally. Serving a diverse customer base, from casual users to tech professionals, the platform continually introduces new products and exclusive deals.
+
+Quantum Supply is a leading e-commerce platform specializing in high-quality tech products and gadgets. Since launching in 2018, it has become a top choice for tech enthusiasts, offering a carefully selected range of premium electronics—including gaming monitors, headphones, and laptops—from brands like Apple, Samsung, and Bose. With global shipping, competitive pricing, and a constantly refreshed lineup of new products and loyalty program offers, Quantum Supply delivers an exceptional shopping experience for tech lovers everywhere.
 
 ### Dataset
+The data set contains records of sales including items not limited to the user id, product, purchase date, region, country, currency, and purchase platform. 
+
 The full ERD of the sales dataset can be found [here.](https://github.com/user-attachments/assets/5f9ee2a7-9383-4618-80ba-45ff34bc1bb1)
 
 
 # Sales Performance Summary
 
 ### Overall Trends
-- From 2019-2022, the company generated **$28M** from **108k total orders**, with **December** being the best-performing month and **February** and **October** consistently the worst.
-- Sales and order count growth were aligned, with the highest month over month increase occuring in **March 2020** at 50% and the steepest decline in **October 2022** at -55%. Annual Sales growth was highest bewteen 2019 and 2020 at 163% (YoY) with 2021 to 2022 experiencing a 46% decrease in sales year over year.
+- From 2019-2022, the company generated **$28M** from **108k total orders**, 2019 saw the lowest annual revenue at $3.8M with a peak annual revenue reaching $10M in 2020.
+
+- Sales and order count growth were aligned, with the highest month over month increase occurring in **March 2020** at 50% and the steepest decline in **October 2022** at -55%. 
+
+- Annual Sales growth was highest bewteen 2019 and 2020 at 163% (YoY) with 2021 to 2022 experiencing a 46% decrease in sales year over year.
 
 ### Best-Selling Product/Region
 - **North America**, particularly the U.S., accounted for over **50% of revenue**, with **$14M in sales** from **50k orders**.
-- The **27-inch 4K Gaming Monitor**, **Apple AirPods**, and **MacBook Air** contributed **85%** of total sales, amounting to **$22M** combined.
+- The **27-inch 4K Gaming Monitor**, **Apple AirPods**, **MacBook Air**, and **Thinkpad Laptop** contributing **96%** of total sales, amounting to **$27M** combined.
 
 ### Loyalty Program
 - By 2022, spending by loyalty and non-loyalty members reached equilibrium, but **non-loyalty members spending declined**.
@@ -32,13 +39,18 @@ The full ERD of the sales dataset can be found [here.](https://github.com/user-a
 
 ## Sales Trends
 
+#### Monthly Figures
+- **September** and **December** saw the highest number of sales (**$2.7M and $2.8M**) with **February** and **October** generating the lowest sales (**$1.9M each**). 
+
+- Sales and order count growth were aligned, with the highest month over month increase occuring in **March 2020** at **50% and the steepest decline in October 2022 at -55%**. 
+ 
  - When looking in aggregate by month from 2019-2022, we saw that our
-   highest sales occured in January, September, and December at a peak
-   of $1.2M and the lowest sales occuring in February and October at a
-   low of $178k. 2019 saw the lowest annual revenue at $3.8M with a peak
-   annual revenue reaching $10M in 2020.
-   
-   
+   highest sales occurred in January, September, and December at a peak
+   of **$1.2M sales in December of 2020**.  
+  
+  - The lowest sales occurring in February and October at a
+   **low of $178k in sales October of 2022**. 
+ 
  - A majority of sales are coming from North America accounting for $14M
    in total revenue, with Europe, Middle East, and Africa accounting for
    $8M, combined show for over 80% of the total revenue.
@@ -57,6 +69,7 @@ The full ERD of the sales dataset can be found [here.](https://github.com/user-a
 - The overall refund rate is 5.91% which is much lower than the industry average of 17% for ecommerce brands according to [Shopify Ecommerce Returns Data.](https://www.shopify.com/enterprise/blog/ecommerce-returns "Shopify Return Data")
 
 - When looking further into Apple product returns, the Macbook Air had the highest return rate of 11% more than double the return rate of the Airpods at just 5%.
+- It's important to note that 2022 did not have any recorded returns indicating there may have been an issue when gathering the data.
 
 ## Recommendations
 Look further into what is causing the Macbooks to be returned twice as often as Airpods. 
