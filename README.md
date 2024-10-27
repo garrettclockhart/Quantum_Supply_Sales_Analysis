@@ -9,19 +9,18 @@ Sales analysis of an e-commerce company
 Quantum Supply is a leading e-commerce platform specializing in high-quality tech products and gadgets. Since launching in 2018, it has become a top choice for tech enthusiasts, offering a carefully selected range of premium electronics—including gaming monitors, headphones, and laptops—from brands like Apple, Samsung, and Bose. With global shipping, competitive pricing, and a constantly refreshed lineup of new products and loyalty program offers, Quantum Supply delivers an exceptional shopping experience for tech lovers everywhere.
 
 ### Dataset
-The data set contains records of sales including items not limited to the user id, product, purchase date, region, country, currency, and purchase platform. 
+The dataset contains detailed records of sales transactions from 2019 to 2022 including the user id, product, purchase date, region, country, currency, and purchase platform. 
 
 The full ERD of the sales dataset can be found [here.](https://github.com/user-attachments/assets/5f9ee2a7-9383-4618-80ba-45ff34bc1bb1)
 
+Cleaning of the dataset was required before analysis, you can view a changelog here(link). 
 
 # Sales Performance Summary
 
 ### Overall Trends
-- From 2019-2022, the company generated **$28M** from **108k total orders**, 2019 saw the lowest annual revenue at $3.8M with a peak annual revenue reaching $10M in 2020.
+- From 2019-2022, the company generated **$28M** from **108k total orders**, 2019 saw the lowest annual revenue at $3.8M with a peak annual revenue reaching **$10M** in 2020.
 
-- Sales and order count growth were aligned, with the highest month over month increase occurring in **March 2020** at 50% and the steepest decline in **October 2022** at -55%. 
-
-- Annual Sales growth was highest bewteen 2019 and 2020 at 163% (YoY) with 2021 to 2022 experiencing a 46% decrease in sales year over year.
+- Annual Sales growth was highest between 2019 and 2020 at 163% (YoY) with 2021 to 2022 experiencing a 46% decrease in sales year over year.
 
 ### Best-Selling Product/Region
 - **North America**, particularly the U.S., accounted for over **50% of revenue**, with **$14M in sales** from **50k orders**.
@@ -42,7 +41,7 @@ The full ERD of the sales dataset can be found [here.](https://github.com/user-a
 #### Monthly Figures
 - **September** and **December** saw the highest number of sales (**$2.7M and $2.8M**) with **February** and **October** generating the lowest sales (**$1.9M each**). 
 
-- Sales and order count growth were aligned, with the highest month over month increase occuring in **March 2020** at **50% and the steepest decline in October 2022 at -55%**. 
+- Sales and order count growth were aligned, with the highest month over month increase occurring in **March 2020** at **50%** and the steepest decline in **October 2022** at **-55%**. 
  
  - When looking in aggregate by month from 2019-2022, we saw that our
    highest sales occurred in January, September, and December at a peak
