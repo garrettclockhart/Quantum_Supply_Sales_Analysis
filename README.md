@@ -77,8 +77,22 @@ Cleaning of the dataset was required before analysis, you can view a change log 
 - When looking further into Apple product returns, the Macbook Air had the highest return rate of 11% more than double the return rate of the Airpods at just 5%.
 - It's important to note that 2022 did not have any recorded returns indicating there may have been an issue when gathering the data.
 
+| Row |  product_clean              |  refund_rate  |  refund_count  |
+|-----|-----------------------------|---------------|----------------|
+|   1 | ThinkPad Laptop             |        0.1173 |            342 |
+|   2 | Macbook Air Laptop          |        0.1143 |            453 |
+|   3 | Apple iPhone                |        0.0764 |             22 |
+|   4 | 27in 4K gaming monitor      |        0.0617 |           1444 |
+|   5 | Apple Airpods Headphones    |        0.0545 |           2636 |
+|   6 | Samsung Webcam              |        0.0258 |            186 |
+|   7 | Samsung Charging Cable Pack |        0.0134 |            294 |
+|   8 | bose soundsport headphones  |           0.0 |              0 |
+
 ## SQL Insights
 - add which suppliers had the highest refund rates
+
+- From 2019-2022 the quarterly average of 98 Macbooks sold and generating an average quarterly sales of $155k. (Question 1)
+- 
 
 
 ## Recommendations
