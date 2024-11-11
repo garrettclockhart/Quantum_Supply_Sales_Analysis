@@ -1,5 +1,6 @@
 
 
+
 # Quantum Supply Sales Analysis
 Sales analysis of an e-commerce company
 
@@ -16,6 +17,7 @@ The full ERD of the sales dataset can be found [here.](https://github.com/user-a
 Cleaning of the dataset was required before analysis, you can view a change log here(link). 
 
 # Sales Performance Summary
+![Overall Trends](https://i.imgur.com/iTUMC6J.png)
 
 ### Overall Trends
 - From 2019-2022, the company generated **$28M** from **108k total orders**, 2019 saw the lowest annual revenue at $3.8M with a peak annual revenue reaching **$10M** in 2020.
@@ -34,6 +36,7 @@ Cleaning of the dataset was required before analysis, you can view a change log 
 - The overall **refund rate** across all transactions is **6%**.
 - The **MacBook Air** had the highest refund rate at **11%**, followed by the **Apple iPhone** at **8%**, and the **Apple AirPods** at **5%**.
 
+
 # Deep Dive Insights
 
 ## Sales Trends
@@ -50,14 +53,18 @@ Cleaning of the dataset was required before analysis, you can view a change log 
   - The lowest sales occurring in February and October at a
    **low of $178k in sales October of 2022**. 
  
- - A majority of sales are coming from North America accounting for $14M
-   in total revenue, with Europe, Middle East, and Africa accounting for
+ - A majority of sales are coming from **North America accounting for $14M
+   in total revenue**, with Europe, Middle East, and Africa accounting for
    $8M, combined show for over 80% of the total revenue.
 
 ## Product Trends
+
+![enter image description here](https://i.imgur.com/0cnXp91.png)
+
 - When looking into product sales, the best performing products are the 27In Gaming Monitor, Apple Airpods, Macbook Air, and ThinkPad Laptop accounting for 96% of all sales. 
 
-- By brand Apple is responsible for more than half of all sales, with Airpods generating $8M and the MacBook $6M. In 2020, the driver for the spike in revenue is the Macbook which saw a 84% increase in it's share of revenue from 2019 creating $2.3M in additional sales. While the market leading 27in 4K Gaming Monitor saw 19% decrease in its percentage of total sales for that year.
+- By brand Apple is responsible for more than half of all sales, with Airpods generating $8M and the MacBook $6M. In 2020, the driver for the spike in revenue is the Macbook Air which saw a 84% increase in its share of revenue from 2019 creating $2.3M in additional sales. In Q2 of 2020, the Macbook Air had  255 orders for $392260 with an AOV of $1538. 
+- While the market leading 27in 4K Gaming Monitor saw 19% decrease in its percentage of total sales for that year.
 
 ## Loyalty Program
 - The loyalty program launched in 2019 with a slow rate of adoption where Non-Loyalty members outspent Loyalty Members during the first two years of the program. However in 2021, Loyalty Members began to outspend Non-Loyalty Members by over $500,000 as well as reaching a steady AOV of $245 versus $214 for Non-Loyalty Members.
@@ -69,6 +76,10 @@ Cleaning of the dataset was required before analysis, you can view a change log 
 
 - When looking further into Apple product returns, the Macbook Air had the highest return rate of 11% more than double the return rate of the Airpods at just 5%.
 - It's important to note that 2022 did not have any recorded returns indicating there may have been an issue when gathering the data.
+
+## SQL Insights
+- add which suppliers had the highest refund rates
+
 
 ## Recommendations
 Look further into what is causing the Macbooks to be returned twice as often as Airpods. 
