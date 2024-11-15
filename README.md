@@ -1,6 +1,7 @@
 
 
 
+
 # Quantum Supply Sales Analysis
 Sales analysis of an e-commerce company
 
@@ -63,7 +64,7 @@ Cleaning of the dataset was required before analysis, you can view a change log 
 
 - When looking into product sales, the best performing products are the 27In Gaming Monitor, Apple Airpods, Macbook Air, and ThinkPad Laptop accounting for 96% of all sales. 
 
-- By brand Apple is responsible for more than half of all sales, with Airpods generating $8M and the MacBook $6M. In 2020, the driver for the spike in revenue is the Macbook Air which saw a 84% increase in its share of revenue from 2019 creating $2.3M in additional sales. In Q2 of 2020, the Macbook Air had  255 orders for $392260 with an AOV of $1538. 
+- By brand Apple is responsible for more than half of all sales, with Airpods generating $8M and the MacBook $6M. In 2020, the driver for the spike in revenue is the Macbook Air which saw a 84% increase in its share of revenue from 2019 creating $2.3M in additional sales. In Q2 of 2020, the Macbook Air had  255 orders for $392,260 with an AOV of $1,538. 
 - While the market leading 27in 4K Gaming Monitor saw 19% decrease in its percentage of total sales for that year.
 
 ## Loyalty Program
@@ -77,16 +78,26 @@ Cleaning of the dataset was required before analysis, you can view a change log 
 - When looking further into Apple product returns, the Macbook Air had the highest return rate of 11% more than double the return rate of the Airpods at just 5%.
 - It's important to note that 2022 did not have any recorded returns indicating there may have been an issue when gathering the data.
 
-| Row |  product_clean              |  refund_rate  |  refund_count  |
-|-----|-----------------------------|---------------|----------------|
-|   1 | ThinkPad Laptop             |        0.1173 |            342 |
-|   2 | Macbook Air Laptop          |        0.1143 |            453 |
-|   3 | Apple iPhone                |        0.0764 |             22 |
-|   4 | 27in 4K gaming monitor      |        0.0617 |           1444 |
-|   5 | Apple Airpods Headphones    |        0.0545 |           2636 |
-|   6 | Samsung Webcam              |        0.0258 |            186 |
-|   7 | Samsung Charging Cable Pack |        0.0134 |            294 |
-|   8 | bose soundsport headphones  |           0.0 |              0 |
+### Product Refund Rates
+| Row |  product_name               |  orders_placed  |  refunds  |  refund_rate  |
+|-----|-----------------------------|-----------------|-----------|---------------|
+|   1 | ThinkPad Laptop             |            2916 |       342 |        0.1173 |
+|   2 | Macbook Air Laptop          |            3964 |       453 |        0.1143 |
+|   3 | Apple iPhone                |             288 |        22 |        0.0764 |
+|   4 | 27in 4K gaming monitor      |           23408 |      1444 |        0.0617 |
+|   5 | Apple Airpods Headphones    |           48404 |      2636 |        0.0545 |
+|   6 | Samsung Webcam              |            7197 |       186 |        0.0258 |
+|   7 | Samsung Charging Cable Pack |           21923 |       294 |        0.0134 |
+|   8 | bose soundsport headphones  |              27 |         0 |           0.0 |
+
+
+### Supplier Refund Rates
+| Row |  supplier            |  orders_placed  |  refunds  |  refund_rate  |
+|-----|----------------------|-----------------|-----------|---------------|
+|   1 | Circuitworks         |           28949 |      1645 |        0.0568 |
+|   2 | Novatech             |           66397 |      3248 |        0.0489 |
+|   3 | Electronics Emporium |            6906 |       269 |         0.039 |
+|   4 | Zenith               |            5875 |       215 |        0.0366 |
 
 ## SQL Insights
 - add which suppliers had the highest refund rates
