@@ -2,6 +2,7 @@
 
 
 
+
 # Quantum Supply Sales Analysis
 Sales analysis of an e-commerce company
 
@@ -62,10 +63,12 @@ Cleaning of the dataset was required before analysis, you can view a change log 
 
 ![enter image description here](https://i.imgur.com/0cnXp91.png)
 
-- When looking into product sales, the best performing products are the 27In Gaming Monitor, Apple Airpods, Macbook Air, and ThinkPad Laptop accounting for 96% of all sales. 
+- When looking into product sales, the best performing products are the 27In Gaming Monitor, Apple Airpods, Macbook Air, and ThinkPad Laptop accounting for **96% of all sales.** 
 
-- By brand Apple is responsible for more than half of all sales, with Airpods generating $8M and the MacBook $6M. In 2020, the driver for the spike in revenue is the Macbook Air which saw a 84% increase in its share of revenue from 2019 creating $2.3M in additional sales. In Q2 of 2020, the Macbook Air had  255 orders for $392,260 with an AOV of $1,538. 
-- While the market leading 27in 4K Gaming Monitor saw 19% decrease in its percentage of total sales for that year.
+- By brand, **Apple is responsible for more than half of all sales**, with Airpods generating $8M and the Macbook $6M. 
+- In 2020, the Macbook Air drove a significant spike in revenue, with its share of revenue increasing by 84% from 2019, **generating an additional $2.3 million in sales**, including 255 orders in Q2 alone, totaling $392,260 with an average order value of $1,538.
+- While the market leading 27in 4K Gaming Monitor saw a 19% decrease in its percentage of total sales for that year.
+- From 2019-2022 the quarterly average of 98 Macbooks sold and generating an average quarterly sales of $155k. (Question 1)
 
 ## Loyalty Program
 - The loyalty program launched in 2019 with a slow rate of adoption where Non-Loyalty members outspent Loyalty Members during the first two years of the program. However in 2021, Loyalty Members began to outspend Non-Loyalty Members by over $500,000 as well as reaching a steady AOV of $245 versus $214 for Non-Loyalty Members.
@@ -75,9 +78,8 @@ Cleaning of the dataset was required before analysis, you can view a change log 
 ## Refund Rates
 - The overall refund rate is 5.91% which is much lower than the industry average of 17% for ecommerce brands according to [Shopify Ecommerce Returns Data.](https://www.shopify.com/enterprise/blog/ecommerce-returns "Shopify Return Data")
 
-- When looking further into Apple product returns, the Macbook Air had the highest return rate of 11% more than double the return rate of the Airpods at just 5%.
-- It's important to note that 2022 did not have any recorded returns indicating there may have been an issue when gathering the data.
-
+- When looking further into Apple product returns, the Macbook Air had the 2nd highest return rate of 11.43% more than double the return rate of the Airpods at just 5.45%.
+- 
 ### Product Refund Rates
 | Row |  product_name               |  orders_placed  |  refunds  |  refund_rate  |
 |-----|-----------------------------|-----------------|-----------|---------------|
@@ -99,13 +101,11 @@ Cleaning of the dataset was required before analysis, you can view a change log 
 |   3 | Electronics Emporium |            6906 |       269 |         0.039 |
 |   4 | Zenith               |            5875 |       215 |        0.0366 |
 
-## SQL Insights
-- add which suppliers had the highest refund rates
+- Circuitworks had the highest refund rate of 5.68% over 28k orders, versus Novatech which had a refund rate of 4.89% over 66k orders.
 
-- From 2019-2022 the quarterly average of 98 Macbooks sold and generating an average quarterly sales of $155k. (Question 1)
-- 
-
+*2022 did not have any recorded returns indicating there may have been an issue when gathering the data.*
 
 ## Recommendations
-Look further into what is causing the Macbooks to be returned twice as often as Airpods. 
+- Look further into what is causing the Macbooks to be returned twice as often as Airpods. 
+- Invest more into marketing the loyalty program and create more incentives for customers to join the program.
 
