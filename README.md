@@ -1,8 +1,4 @@
 
-
-
-
-
 # Quantum Supply Sales Analysis
 
 ## About Quantum Supply
@@ -65,13 +61,20 @@ Cleaning of the dataset was required before analysis, you can view a change log 
 
 - By brand, **Apple is responsible for more than half of all sales**, with Airpods generating $8M and the Macbook $6M. 
 - In 2020, the Macbook Air drove a significant spike in revenue, with its share of revenue increasing by 84% from 2019, **generating an additional $2.3 million in sales**, including 255 orders in Q2 alone, totaling $392,260 with an average order value of $1,538.
-- While the market leading 27in 4K Gaming Monitor saw a 19% decrease in its percentage of total sales for that year.
+-  While the top-performing 27in 4K Gaming Monitor **experienced a 19% decrease** in its percentage of total sales for that year.
 - From 2019-2022 the quarterly average of 98 Macbooks sold and generating an average quarterly sales of $155k. (Question 1)
+- **Apple AirPods emerged as the most popular product across all regions**, with the highest total orders in North America (18,574), EMEA (11,227), and Unknown (12,466). Notably, the LATAM  and APAC (4,226) region recorded the lowest orders at 1,911, indicating variability in product popularity across different markets.
 
 ## Loyalty Program
-- The loyalty program launched in 2019 with a slow rate of adoption where Non-Loyalty members outspent Loyalty Members during the first two years of the program. However in 2021, Loyalty Members began to outspend Non-Loyalty Members by over $500,000 as well as reaching a steady AOV of $245 versus $214 for Non-Loyalty Members.
+- The loyalty program launched in 2019 with a slow rate of adoption where Non-Loyalty members outspent Loyalty Members during the first two years of the program. However in 2021, Loyalty Members began to outspend Non-Loyalty Members by over $500,000 as well as reaching a **steady AOV of $245 versus $214 for Non-Loyalty Members.**
 
-- At first, only 11% of all orders were made by Loyalty Members, but by 2021, over half of all orders were placed by members of the loyalty program.
+- Initially only 11% of all orders were made by Loyalty Members, however by 2021, **over half of all orders were placed by members of the loyalty program.**
+- **Loyalty members on average took 49 days to purchase** an item after creating their account, 30% quicker than Non-loyalty members that took 70 days to purchase. 
+
+| loyalty_program | days_to_purchase | months_to_purchase |
+|-----------------|------------------|--------------------|
+| 0               | 70.5             | 2.3                |
+| 1               | 49.3             | 1.6                |
 
 ## Refund Rates
 - The overall refund rate is 5.91% which is much lower than the industry average of 17% for ecommerce brands according to [Shopify Ecommerce Returns Data.](https://www.shopify.com/enterprise/blog/ecommerce-returns "Shopify Return Data")
@@ -85,7 +88,7 @@ Cleaning of the dataset was required before analysis, you can view a change log 
 |   2 | Macbook Air Laptop          |            3964 |       453 |        0.1143 |
 |   3 | Apple iPhone                |             288 |        22 |        0.0764 |
 |   4 | 27in 4K gaming monitor      |           23408 |      1444 |        0.0617 |
-|   5 | Apple Airpods Headphones    |           48404 |      2636 |        0.0545 |
+|   5 | Apple AirPods Headphones    |           48404 |      2636 |        0.0545 |
 |   6 | Samsung Webcam              |            7197 |       186 |        0.0258 |
 |   7 | Samsung Charging Cable Pack |           21923 |       294 |        0.0134 |
 |   8 | bose soundsport headphones  |              27 |         0 |           0.0 |
@@ -104,6 +107,6 @@ Cleaning of the dataset was required before analysis, you can view a change log 
 *2022 did not have any recorded returns indicating there may have been an issue when gathering the data.*
 
 ## Recommendations
-- Look further into what is causing the Macbooks to be returned twice as often as Airpods. 
+- Look further into what is causing the Macbooks to be returned twice as often as AirPods. 
 - Invest more into marketing the loyalty program and create more incentives for customers to join the program.
 
