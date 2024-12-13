@@ -1,4 +1,5 @@
 
+
 # Quantum Supply Sales Analysis
 
 ## About Quantum Supply
@@ -80,7 +81,7 @@ Cleaning of the dataset was required before analysis, you can view a change log 
 - The overall refund rate is 5.91% which is much lower than the industry average of 17% for ecommerce brands according to [Shopify Ecommerce Returns Data.](https://www.shopify.com/enterprise/blog/ecommerce-returns "Shopify Return Data")
 
 - When looking further into Apple product returns, the Macbook Air had the 2nd highest return rate of 11.43% more than double the return rate of the Airpods at just 5.45%.
-- 
+
 ### Product Refund Rates
 | Row |  product_name               |  orders_placed  |  refunds  |  refund_rate  |
 |-----|-----------------------------|-----------------|-----------|---------------|
@@ -107,6 +108,18 @@ Cleaning of the dataset was required before analysis, you can view a change log 
 *2022 did not have any recorded returns indicating there may have been an issue when gathering the data.*
 
 ## Recommendations
-- Look further into what is causing the Macbooks to be returned twice as often as AirPods. 
-- Invest more into marketing the loyalty program and create more incentives for customers to join the program.
+
+### Advertising
+- **Create a marketing campaign that can recapture lost customers who bought items in 2020 and 2021** when sales were the highest. If a customer has already purchased from the platform, they are more likely to purchase again and need to be retargeted for potential future purchases.
+
+### Refunds
+- **Look further into what is causing the Macbooks to be returned twice as often as AirPods,** additionally locate the return data for 2022 transactions. 
+- **Invest more into marketing the loyalty program and create more incentives for customers to join the program,** Loyalty members take less time to make their first purchase after creating an account, and on average spend more than non-loyalty members. 
+
+### Products
+- **Increase the number of products that can be sold in the Gaming Monitor and Laptop categories** as only 3 types products make up the majority of sales for the platform. For example offering keyboards, headsets, mice, microphones in that category to increase potential add-on purchases.
+- **During surges of demand offer slight discounts to purchases and bundles made on the platform for popular products,** this can increase profit as the volume of sales will make up for the reduction in price.
+
+### Regions
+- **Investigate potential growth opportunities in APAC and LATAM regions** examples could include offering region specific products or conduct more research into the needs of the region.
 
