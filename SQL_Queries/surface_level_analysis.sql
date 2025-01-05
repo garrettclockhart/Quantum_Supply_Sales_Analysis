@@ -80,7 +80,7 @@ LEFT JOIN core.customers -- Customers joins on orders
 LEFT JOIN core.geo_lookup
   ON customers.country_code = geo_lookup.country_code
 WHERE LOWER(orders.product_name) LIKE '%macbook%'
-  AND EXTRACT(year FROM purchase_ts) = 2020 -- no order status needed
+  AND EXTRACT(year FROM purchase_ts) = 2020 -- no order status needed.
 GROUP BY 1
 ORDER BY 2 DESC
 LIMIT 2;
