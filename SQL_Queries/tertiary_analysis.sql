@@ -20,7 +20,7 @@ GROUP BY 1
 ORDER BY 1 DESC;
 
 
--- (BONUS) What is the average quarterly order count and total sales for Macbooks sold in North America? (i.e. “For North America Macbooks, average of X units sold per quarter and Y in dollar sales per quarter”)
+-- (BONUS) What is the average quarterly order count and total sales for Macbooks sold in North America? (i.e. “For North America Macbooks, average of X units sold per quarter and Y in dollar sales per quarter”).
 
 WITH quarterly_metrics AS
 (SELECT DATE_TRUNC(orders.purchase_ts, quarter) AS purchase_quarter
