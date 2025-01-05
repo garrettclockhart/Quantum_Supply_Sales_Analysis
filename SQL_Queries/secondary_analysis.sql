@@ -1,7 +1,7 @@
 --Question 1:
 -- For each purchase platform, return the top 3 customers by the number of purchases and order them within that platform. If there is a tie, break the tie using any order. 
 
--- purchase_platform, followed by the customers_ids with the largest number of purchases as an order_count
+-- purchase_platform, followed by the customers_ids with the largest number of purchases as an order_count.
 -- and then row_number (window function partitioning by platform) and resulting the top 3 customers for each platform
 -- no joins
 
