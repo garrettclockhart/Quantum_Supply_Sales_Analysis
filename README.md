@@ -4,7 +4,7 @@
 
 ## About Quantum Supply
 
-Quantum Supply is a leading e-commerce platform specializing in high-quality tech products and gadgets. Since launching in 2018, it has become a top choice for tech enthusiasts, offering a carefully selected range of premium electronics—including gaming monitors, headphones, and laptops—from brands like Apple, Samsung, and Bose. With global shipping, competitive pricing, and a constantly refreshed lineup of new products and loyalty program offers, Quantum Supply delivers an exceptional shopping experience for tech lovers everywhere.
+Quantum Supply is a leading e-commerce platform specializing in high-quality tech products and gadgets. Since launching in 2018, it has become a top choice for tech enthusiasts, offering a carefully selected range of premium electronics-including gaming monitors, headphones, and laptops-from brands like Apple, Samsung, and Bose. With global shipping, competitive pricing, and a constantly refreshed lineup of new products and loyalty program offers, Quantum Supply delivers an exceptional shopping experience for tech lovers everywhere.
 
 ### Dataset
 The dataset contains detailed records of sales transactions from 2019 to 2022 including the user id, product, purchase date, region, country, currency, and purchase platform. 
