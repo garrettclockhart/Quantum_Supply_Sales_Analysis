@@ -4,7 +4,7 @@
 
 ## About Quantum Supply
 
-Quantum Supply is a leading e-commerce platform specializing in high-quality tech products and gadgets. Since launching in 2018, it has become a top choice for tech enthusiasts, offering a carefully selected range of premium electronics-including gaming monitors, headphones, and laptops-from brands like Apple, Samsung, and Bose. With global shipping, competitive pricing, and a constantly refreshed lineup of new products and loyalty program offers, Quantum Supply delivers an exceptional shopping experience for tech lovers everywhere.
+Quantum Supply is a leading e-commerce platform specializing in high-quality tech products and gadgets. Since launching in 2018, it has become a top choice for tech enthusiasts, offering a carefully selected range of premium electronics—including gaming monitors, headphones, and laptops—from brands like Apple, Samsung, and Bose. With global shipping, competitive pricing, and a constantly refreshed lineup of new products and loyalty program offers, Quantum Supply delivers an exceptional shopping experience for tech lovers everywhere.
 
 ### Dataset
 The dataset contains detailed records of sales transactions from 2019 to 2022 including the user id, product, purchase date, region, country, currency, and purchase platform. 
@@ -109,17 +109,37 @@ Cleaning of the dataset was required before analysis, you can view a change log 
 
 ## Recommendations
 
-### Advertising
-- **Create a marketing campaign that can recapture lost customers who bought items in 2020 and 2021** when sales were the highest. If a customer has already purchased from the platform, they are more likely to purchase again and need to be retargeted for potential future purchases.
 
-### Refunds
-- **Look further into what is causing the Macbooks to be returned twice as often as AirPods,** additionally locate the return data for 2022 transactions. 
-- **Invest more into marketing the loyalty program and create more incentives for customers to join the program,** Loyalty members take less time to make their first purchase after creating an account, and on average spend more than non-loyalty members. 
+**1. Advertising & Customer Re-engagement**
 
-### Products
-- **Increase the number of products that can be sold in the Gaming Monitor and Laptop categories** as only 3 types products make up the majority of sales for the platform. For example offering keyboards, headsets, mice, microphones in that category to increase potential add-on purchases.
-- **During surges of demand offer slight discounts to purchases and bundles made on the platform for popular products,** this can increase profit as the volume of sales will make up for the reduction in price.
+-   _Target past high-value customers:_  Since sales peaked in 2020 and 2021, approximately  **$13.8M**  (from a total of  **$28M**) was generated during these years—focusing retargeting efforts on this segment could capitalize on their demonstrated purchase behavior.
+-   _Estimated impact:_  Re-engaging even  **10%**  of these past customers—roughly  **1,380 customers**—who have previously purchased high-margin items like Macbooks and AirPods, could potentially recapture  **$200K+**  in revenue, assuming an average repeat order of  **$150**.
 
-### Regions
-- **Investigate potential growth opportunities in APAC and LATAM regions** examples could include offering region specific products or conduct more research into the needs of the region.
+----------
 
+**2. Refund Analysis & Quality Control Enhancement**
+
+-   _Address high refund rates:_  The Macbook Air has an  **11.43% refund rate**  over 3,964 orders (~**453 refunds**).
+-   _Potential savings:_  Reducing the Macbook Air refund rate by just  **2%**  could prevent  **~80 refunds**, saving approximately  **$130K**  in loss, based on an average order value of  **$538**.
+-   _Actionable step:_  Focus quality assessment and customer feedback on return reasons for Macbooks, possibly lowering its refund rate closer to the AirPods'  **5.45%**.
+
+----------
+
+**3. Promotion Strategies & Sales Volume Growth**
+
+-   _Leverage product-specific demand surges:_  During peak months (e.g., December with  **$2.8M sales**, 2020), offering targeted discounts of  **15-20%**  on flagship products like the 27-inch Gaming Monitor could significantly increase sales volume.
+-   _Expected outcome:_  If a  **20% discount**  on a high-demand product priced at  **$400**  leads to a  **30% volume increase**  (e.g., from 100 to 130 units sold), total revenue could rise from  **$40K**  to  **$52K**, compensating for the initial margin reduction.
+
+----------
+
+**4. Product Expansion & Category Diversification**
+
+-   _Capitalize on top categories:_  The Gaming Monitor, AirPods, MacBook Air, and ThinkPad collectively generate about  **$27M**, representing  **96% of total sales**.
+-   _Opportunity:_  Adding complementary accessories (keyboards, mice, headsets) could boost category sales by  **10-15%**, translating to an additional  **$2.7M-$4M**  over time, especially effective during demand surges when customers are more receptive to bundling.
+
+----------
+
+**5. Regional Growth Initiatives**
+
+-   _Focus on expanding in APAC and LATAM:_  Currently, LATAM and APAC regions account for roughly  **7%**  of total revenue (~**$1.96M**  from about  **4,137 orders**).
+-   _Potential:_  Tailored region-specific marketing or localized product offerings could increase regional sales growth by  **20-30%**  over the next year, translating to an additional  **$0.4M-$0.6M**.
