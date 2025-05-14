@@ -112,8 +112,8 @@ Cleaning of the dataset was required before analysis, you can view a change log 
 
 **1. Advertising & Customer Re-engagement**
 
--   _Target past high-value customers:_  Since sales peaked in 2020 and 2021, approximately  **$13.8M**  (from a total of  **$28M**) was generated during these years—focusing retargeting efforts on this segment could capitalize on their demonstrated purchase behavior.
--   _Estimated impact:_  Re-engaging even  **10%**  of these past customers—roughly  **1,380 customers**—who have previously purchased high-margin items like Macbooks and AirPods, could potentially recapture  **$200K+**  in revenue, assuming an average repeat order of  **$150**.
+-   _Target past high-value customers:_  Since sales peaked in 2020 and 2021, approximately  **$13.8M**  (from a total of  **$28M**) was generated during these years, focusing retargeting efforts on this segment could capitalize on their demonstrated purchase behavior.
+-   _Estimated impact:_  Re-engaging even  **10%**  of these past customers, roughly  **1,380 customers**, who have previously purchased high-margin items like Macbooks and AirPods, could potentially recapture  **$200K+**  in revenue, assuming an average repeat order of  **$150**.
 
 ----------
 
